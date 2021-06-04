@@ -60,7 +60,7 @@
   cursor: pointer;
 }
 .btn-header:hover{
-  box-shadow: 0 0 15px whitesmoke;
+  box-shadow: 0 0 10px whitesmoke;
   color: whitesmoke
 }
 .navbar{
