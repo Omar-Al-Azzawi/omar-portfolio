@@ -159,6 +159,19 @@
   font-size: 18px;
   letter-spacing: 3px;
 }
+.experience-container {
+  color: #ffffff;
+  padding-top: 20px;
+  text-align: center;
+  letter-spacing: 7px;
+  text-transform: uppercase;
+}
+.experience-container li {
+  display: inline-block;
+  margin: 45px;
+  padding-top: 40px;
+  transform: scale(4);
+}
 
 /*  Contact */
 
